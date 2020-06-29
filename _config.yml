@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Front-end developer"
+resume_name:                    "Mikita Pilets"
 resume_title:                   "Front-end developer"
 resume_contact_email:           "mykytapilec@gmail.com"
 resume_contact_telephone:       "+375(29)105-32-87"
@@ -40,7 +40,7 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/mykytapilec"
   resume_linkedin_url:          "https://www.linkedin.com/in/mikitapilets"
-  
+
 resume_print_social_links:      true
 
 # Design settings
